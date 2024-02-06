@@ -1,0 +1,146 @@
+* {
+    background-color: #374151;
+}
+
+nav {
+    padding: 33px 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 21px;
+    margin: 50px;
+}
+
+button {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #FFFFFF;
+    background-color: rgb(31, 41, 55, 0.6);
+    border-radius: 100px;
+    width: 224px;
+    height: 40px;
+    padding: 20px;
+    margin: auto;
+}
+
+.Data {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #FFFFFF;
+    width: 180px;
+    height: 16px;
+    padding: 16;
+    margin: auto;
+}
+
+h1 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    color: #FFFFFF;
+    width: 525px;
+    height: 76px;
+    padding: 38px;
+    margin: auto;
+}
+
+header a {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+div {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+
+.name {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 148px;
+    height: 28px
+}
+
+.raz {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 85px;
+    height: 28px;
+}
+
+.comp {
+    width: 896px;
+    height: 594px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+img>foto {
+    width: 896px;
+    height: 594px;
+    border-radius: 5px;
+    margin: 50px 30px 100px 20 px;
+}
+
+.Textuno {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #FFFFFF;
+    width: 708px;
+    height: 150px;
+    margin: 69px auto;
+    padding: 32px;
+}
+
+.Textduo {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+    width: 708px;
+    height: 281px;
+    margin: 10px auto;
+    padding: 50px;
+}
+
+div a {
+    color: #FFFFFF
+}
+
+.Footer {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    padding: 23px;
+    margin: 70px auto;
+}
